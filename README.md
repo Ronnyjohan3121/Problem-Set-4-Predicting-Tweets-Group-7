@@ -15,5 +15,5 @@ One of the inputs of information that we will use to develop the workshop and pr
 
 -  The code used can be found in the files "Descriptivas_tweets.ipynb" and "Modelos tweets.ipynb".
 -  Views contains graphs that were used for descriptive analysis
--  Documents contains the .pdf file uploaded to Bloque Neon and a link to "context" Github, a package designed by DNP for data text analysis in Colombia.
+-  Documents contains the .pdf file uploaded to Bloque Neon and a link to "context" Github, a package designed by DNP for text data analysis in Colombia.
 
