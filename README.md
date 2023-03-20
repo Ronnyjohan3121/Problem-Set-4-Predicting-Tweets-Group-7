@@ -12,6 +12,7 @@ This workshop aims to predict tweet authors. The data contains tweets from three
 Specifically predict who each tweet belongs to. The information entries and training dataset contain the tweets from the accounts of three prominent Colombian politicians: Claudia López, Gustavo Petro, and Álvaro Uribe. The test data contains 500 tweets that are untagged
 
 
+-  DATA contains the train and test set used for this project
 -  The code used can be found in the files "Descriptivas_tweets_PS4.ipynb" and "Modelos tweets_PS4.ipynb".
 -  Views contains graphs that were used for descriptive analysis
 -  Documents contains the .pdf file uploaded to Bloque Neon and a link to "context" Github, a package designed by DNP for text data analysis in Colombia.
