@@ -14,6 +14,6 @@ Specifically predict who each tweet belongs to. The information entries and trai
 One of the inputs of information that we will use to develop the workshop and propose the models will be from the following address:
 
 -  The code used can be found in the files "Descriptivas_tweets.ipynb" and "Modelos tweets.ipynb".
--  Views contains graphs and tables that were used for descriptive analysis
+-  Views contains graphs that were used for descriptive analysis
 -  Documents contains the .pdf file uploaded to Bloque Neon and a link to "context" Github, a package designed by DNP for data text analysis in Colombia.
 
